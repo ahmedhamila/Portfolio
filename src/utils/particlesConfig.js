@@ -44,11 +44,11 @@ const particlesConfig = {
       },
       onHover: {
         enable: true,
-        mode: "attract",
+        mode: "repulse",
         parallax: {
           enable: false,
-          force: 60,
-          smooth: 10,
+          force: 30,
+          smooth: 15,
         },
       },
       resize: {
@@ -104,7 +104,7 @@ const particlesConfig = {
       push: {
         default: true,
         groups: [],
-        quantity: 10,
+        quantity: 1,
       },
       remove: {
         quantity: 2,
@@ -302,7 +302,7 @@ const particlesConfig = {
         height: 1080,
       },
       limit: 0,
-      value: 80,
+      value: 120,
     },
     opacity: {
       random: {

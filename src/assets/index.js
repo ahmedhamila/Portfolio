@@ -25,9 +25,9 @@ import freelance from "./company/freelance.png";
 import avicenne from "./company/avicenne.png";
 import clevertech from "./company/clevertech.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import isimmmooc from "./Isimmmooc.png";
+import Avicenne from "./Avicenne.png";
+import gmao from "./gmao.png";
 
 export {
   logo,
@@ -54,7 +54,7 @@ export {
   freelance,
   avicenne,
   clevertech,
-  carrent,
-  jobit,
-  tripguide,
+  isimmmooc,
+  Avicenne,
+  gmao,
 };
